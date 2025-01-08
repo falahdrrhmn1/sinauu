@@ -1,13 +1,8 @@
-nilai = 10
+"""
+pertanyaan 1: 
+buatlah perulangan dari angka 0 - 100
 
-def contohFunction(param):
-    for i in range(param): 
-        print(i, end=" ")
+"""
 
-contohFunction(nilai)
-
-
-
-
-
-
+for i in range(100): 
+    print(i)

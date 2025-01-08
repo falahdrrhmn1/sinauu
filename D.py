@@ -1,17 +1,8 @@
-nilai = 10
-
-def contohFunction(param):
-    for i in range(param): 
-        print(i, end=" ")
-
-contohFunction(nilai)
-
-
-
-
+"""
+pertanyaan 1: 
+buatlah perulangan dari angka 0 - 100
 
 """
-suatu pertanyaan
 
-apakah anda pintar??
-"""
+for i in range(1, 101): 
+    print(i)
