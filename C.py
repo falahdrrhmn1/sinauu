@@ -41,3 +41,10 @@ print(mahasiswa1.nama)
     
 # ada istilah baru nih. jadi disini kan function didalam kelas/ konstruktor lebih tepatnya. nah permasalahannya adalah pada parameternya yang ketika mau digunakan harus menggunakan self. akan membingungkan sekali bukan. 
 # jadi gini penjelasnnya
+
+
+# jadi gini aja 
+# di python ada beberapa function atau objek yang digunakan 
+# 1 init (constructor) = selalu dijalankan ketika kelas diciptakan
+# 2 str = ketika print kelas, dia yang akan keluar
+# 3 method (namanya bebas) = intinya dia function yang ada didalam kelas
