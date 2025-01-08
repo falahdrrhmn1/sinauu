@@ -10,4 +10,8 @@ contohFunction(nilai)
 
 
 
+"""
+suatu pertanyaan
 
+apakah anda pintar??
+"""
