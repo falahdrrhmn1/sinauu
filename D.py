@@ -1,8 +1,17 @@
-"""
-pertanyaan 1: 
-buatlah perulangan dari angka 0 - 100
 
-"""
+# membuat class dan objek
 
-for i in range(1, 101): 
-    print(i)
+class mahasiswa: 
+    def __init__(self, nama, nim): 
+        self.nama = nama 
+        self.nim = nim
+
+mahasiswa1 = mahasiswa("falah", 100)
+
+print(mahasiswa1.nama)
+print(mahasiswa1.nim)
+
+
+
+
+
